@@ -1,0 +1,12 @@
+{
+  "input_data_path": "/home/yanweng/snp_effect/data/grad_cam/pbmc/deepsea/cam",
+  "label_path": "/home/yanweng/snp_effect/data/for_model_v2/input_fa/label_one_hot.txt",
+  "bed_path": "/home/yanweng/snp_effect/data/for_model_v2/input_fa/merged500_1kb_peak_labled_bed_only.bed",
+  "cluster": 0,
+  "cutoff_method": "percentile",
+  "threshold": 0.0,
+  "percentile": 90,
+  "method": 3,
+  "result_path": "/home/yanweng/snp_effect/data/grad_cam/pbmc/deepsea/cam_to_bed_20210508"
+}
+

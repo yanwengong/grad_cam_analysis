@@ -1,0 +1,15 @@
+{
+  "input_data_path": "/Users/yanwengong/Documents/JingZhang_lab/snp_effect/data/galaxy_output/grad_cam/pbmc/deepsea4/cam",
+  "label_path": "/Users/yanwengong/Documents/JingZhang_lab/snp_effect/data/test_rsync_local_v2/input_fasta/label_one_hot.txt",
+  "bed_path": "/Users/yanwengong/Documents/JingZhang_lab/snp_effect/data/test_rsync_local_v2/input_fasta/merged500_1kb_peak_labled_bed_only.bed",
+  "max_index_path": "/Users/yanwengong/Documents/JingZhang_lab/snp_effect/data/galaxy_output/grad_cam/pbmc/deepsea4/max_index",
+  "cluster": 0,
+  "cutoff_method": "threshold",
+  "threshold": 0.0,
+  "percentile": 80,
+  "method": 3,
+  "result_path": "/Users/yanwengong/Documents/JingZhang_lab/snp_effect/data/grad_cam/pbmc/cam_to_bed_20210620"
+}
+
+
+

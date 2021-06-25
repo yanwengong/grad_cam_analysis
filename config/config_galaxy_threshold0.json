@@ -1,0 +1,13 @@
+{
+  "input_data_path": "/home/yanweng/snp_effect/data/grad_cam/pbmc/deepsea4/cam",
+  "label_path": "/home/yanweng/snp_effect/data/for_model_v2/input_fa/label_one_hot.txt",
+  "bed_path": "/home/yanweng/snp_effect/data/for_model_v2/input_fa/merged500_1kb_peak_labled_bed_only.bed",
+  "max_index_path":"/home/yanweng/snp_effect/data/for_model_v2/output/0619_DeepSea4_negative0_pbmc_max/",
+  "cluster": [1,2,3,4,5,6,7],
+  "cutoff_method": "threshold",
+  "threshold": 0.0,
+  "percentile": 80,
+  "method": 3,
+  "result_path": "/home/yanweng/snp_effect/data/grad_cam/pbmc/deepsea4/cam_to_bed_20210622"
+}
+
